@@ -1,0 +1,27 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{bm}
+
+\begin{document}
+
+\section*{Bold Mathematics}
+
+With \verb|\boldmath|:
+{\boldmath
+\[
+\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}
+\]
+}
+
+With \verb|\bm|:
+\[
+\bm{\nabla} \times \bm{E} = -\frac{\partial \bm{B}}{\partial t}
+\]
+
+Mixed bold and normal:
+\[
+\bm{F} = q(\bm{E} + \bm{v} \times \bm{B})
+\]
+
+\end{document}

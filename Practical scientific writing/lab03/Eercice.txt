@@ -1,0 +1,205 @@
+
+1. Converting Between Inline and Display Modes
+Objective: Compare the display of the same formulas in inline and display modes.
+
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+
+\begin{document}
+
+\section*{Inline vs Display Mode}
+
+Inline mode: $E = mc^2$, $y = ax^2 + bx + c$, $\sum_{i=1}^n i = \frac{n(n+1)}{2}$
+
+Same formulas in display mode:
+\[
+E = mc^2
+\]
+\[
+y = ax^2 + bx + c
+\]
+\[
+\sum_{i=1}^n i = \frac{n(n+1)}{2}
+\]
+
+\end{document}
+2. Uppercase and Lowercase Greek Letters
+Objective: Explore available Greek letters.
+
+latex
+\documentclass{article}
+\usepackage[T1]{fontenc}
+
+\begin{document}
+
+\section*{Greek Letters}
+
+Lowercase: $\alpha, \beta, \gamma, \delta, \epsilon, \zeta, \eta, \theta, \iota, \kappa, \lambda, \mu, \nu, \xi, \pi, \rho, \sigma, \tau, \upsilon, \phi, \chi, \psi, \omega$
+
+Uppercase: $\Gamma, \Delta, \Theta, \Lambda, \Xi, \Pi, \Sigma, \Upsilon, \Phi, \Psi, \Omega$
+
+\end{document}
+3. Experimenting with Font Commands
+Objective: Test nesting font commands.
+
+latex
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+
+\begin{document}
+
+\section*{Font Commands in Math Mode}
+
+Normal font: $abcABC123$
+
+Roman: $\mathrm{abcABC123}$
+
+Text italic: $\mathit{abcABC123}$
+
+Bold: $\mathbf{abcABC123}$
+
+Sans serif: $\mathsf{abcABC123}$
+
+Typewriter: $\mathtt{abcABC123}$
+
+\section*{Nesting Commands}
+
+Nesting test: $\mathbf{\mathit{text}}$
+
+Combination: $\mathbf{x} + \mathit{y} = \mathsf{z}$
+
+\end{document}
+4. Document Class Options for Equations
+Objective: Test fleqn and leqno options.
+
+File 1: with fleqn option
+
+latex
+\documentclass[fleqn]{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+
+\begin{document}
+
+\section*{Left-Aligned Equations}
+
+Simple equation:
+\[
+E = mc^2
+\]
+
+Complex equation:
+\[
+\int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi}
+\]
+
+Numbered equation:
+\begin{equation}
+a^2 + b^2 = c^2
+\end{equation}
+
+\end{document}
+File 2: with leqno option
+
+latex
+\documentclass[leqno]{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+
+\begin{document}
+
+\section*{Left-Side Equation Numbers}
+
+Left-numbered equation:
+\begin{equation}
+e^{i\pi} + 1 = 0
+\end{equation}
+
+Another equation:
+\begin{equation}
+F = G\frac{m_1 m_2}{r^2}
+\end{equation}
+
+\end{document}
+File 3: with both options
+
+latex
+\documentclass[fleqn,leqno]{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+
+\begin{document}
+
+\section*{Left-Aligned Equations with Left-Side Numbers}
+
+\begin{equation}
+\frac{\partial^2 \psi}{\partial t^2} = c^2 \frac{\partial^2 \psi}{\partial x^2}
+\end{equation}
+
+\begin{equation}
+\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
+\end{equation}
+
+\end{document}
+ Additional Exercises for Deepening Understanding
+5. Advanced amsmath Usage
+latex
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+
+\begin{document}
+
+\section*{Advanced amsmath Environments}
+
+Multiple alignment:
+\begin{align*}
+x &= y + z & a &= b + c \\
+x^2 &= y^2 + 2yz + z^2 & a^2 &= b^2 + 2bc + c^2
+\end{align*}
+
+Equation gathering:
+\begin{gather*}
+e^{i\theta} = \cos\theta + i\sin\theta \\
+\cos^2\theta + \sin^2\theta = 1 \\
+\tan\theta = \frac{\sin\theta}{\cos\theta}
+\end{gather*}
+
+Multiline equation:
+\begin{multline*}
+p(x) = 3x^6 + 14x^5y + 590x^4y^2 + 19x^3y^3 \\ 
+- 12x^2y^4 - 12xy^5 + 2y^6 - a^3b^3
+\end{multline*}
+
+\end{document}
+6. Bold Mathematics with bm
+latex
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{bm}
+
+\begin{document}
+
+\section*{Bold Mathematics}
+
+With \verb|\boldmath|:
+{\boldmath
+\[
+\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}
+\]
+}
+
+With \verb|\bm|:
+\[
+\bm{\nabla} \times \bm{E} = -\frac{\partial \bm{B}}{\partial t}
+\]
+
+Mixed bold and normal:
+\[
+\bm{F} = q(\bm{E} + \bm{v} \times \bm{B})
+\]
+
+\end{document}

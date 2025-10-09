@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+
+\begin{document}
+
+\section*{Advanced amsmath Environments}
+
+Multiple alignment:
+\begin{align*}
+x &= y + z & a &= b + c \\
+x^2 &= y^2 + 2yz + z^2 & a^2 &= b^2 + 2bc + c^2
+\end{align*}
+
+Equation gathering:
+\begin{gather*}
+e^{i\theta} = \cos\theta + i\sin\theta \\
+\cos^2\theta + \sin^2\theta = 1 \\
+\tan\theta = \frac{\sin\theta}{\cos\theta}
+\end{gather*}
+
+Multiline equation:
+\begin{multline*}
+p(x) = 3x^6 + 14x^5y + 590x^4y^2 + 19x^3y^3 \\ 
+- 12x^2y^4 - 12xy^5 + 2y^6 - a^3b^3
+\end{multline*}
+
+\end{document}
