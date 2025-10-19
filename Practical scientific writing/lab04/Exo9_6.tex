@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage[hidelniks]{hyperref}
+\subsection*{Exercise 6: Placing \textbackslash label Before/After \textbackslash caption}
+\begin{document}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.4\textwidth]{example-image-a}
+    \label{fig:before}  % BEFORE caption → WRONG
+    \caption{Figure with label before}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.4\textwidth]{example-image-b}
+    \caption{Figure with label after}
+    \label{fig:after}  % AFTER caption → CORRECT
+\end{figure}
+
+Reference to figure~\ref{fig:before} (incorrect)\\
+Reference to figure~\ref{fig:after} (correct)
+
+\textbf{Result:}
+\begin{itemize}
+\item \texttt{\textbackslash label} before \texttt{\textbackslash caption} → incorrect reference (usually to previous section)
+\item \texttt{\textbackslash label} after \texttt{\textbackslash caption} → correct reference to the figure
+\end{itemize}
+
+\end{document}

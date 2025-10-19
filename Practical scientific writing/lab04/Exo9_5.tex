@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage[hidelniks]{hyperref}
+\subsection*{Exercise 5: Cross-references and Number of Compilations}
+
+\begin{document}
+
+\section{Introduction}
+\label{sec:intro}
+
+In section~\ref{sec:intro}, we present...
+
+\subsection{First subsection}
+\label{subsec:first}
+
+As seen in subsection~\ref{subsec:first}...
+
+\begin{enumerate}
+    \item First point
+    \item Second point\label{item:second}
+    \item Reference to point~\ref{item:second}
+\end{enumerate}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.5\textwidth]{siriki}
+    \caption{Test figure}
+    \label{fig:test}
+\end{figure}
+
+Figure~\ref{fig:test} shows...
+
+\end{document}
+

@@ -1,0 +1,238 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage[hidelinks]{hyperref}
+
+\begin{document}
+
+\section*{Résolution des exercices 4.9}
+
+\subsection*{Exercice 1 : Inclure une image personnelle}
+
+\begin{verbatim}
+\documentclass{article}
+\usepackage{graphicx}
+
+\begin{document}
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.6\textwidth]{mon-image.png}
+    \caption{Mon image personnelle}
+    \label{fig:monimage}
+\end{figure}
+\end{document}
+\end{verbatim}
+
+\textbf{Remarque :} Remplacez \texttt{mon-image.png} par le chemin de votre propre image.
+
+\subsection*{Exercice 2 : Explorer les options de taille et rotation}
+
+\begin{verbatim}
+\documentclass{article}
+\usepackage{graphicx}
+
+\begin{document}
+
+% Différentes options de mise en forme
+\includegraphics[height=3cm]{example-image} \\
+\includegraphics[width=0.3\textwidth]{example-image} \\
+\includegraphics[scale=0.5]{example-image} \\
+\includegraphics[angle=45, width=0.2\textwidth]{example-image}
+
+\end{document}
+\end{verbatim}
+
+\subsection*{Exercice 3 : Comparaison \textbackslash textwidth vs \textbackslash linewidth}
+
+\begin{verbatim}
+\documentclass[twocolumn]{article}
+\usepackage{graphicx}
+\usepackage{lipsum}
+
+\begin{document}
+
+\lipsum[1]
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.8\textwidth]{example-image}
+    \caption{Avec \textbackslash textwidth}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.8\linewidth]{example-image}
+    \caption{Avec \textbackslash linewidth}
+\end{figure}
+
+\lipsum[2-5]
+
+\end{document}
+\end{verbatim}
+
+\textbf{Observation :} Avec l'option \texttt{twocolumn}, \texttt{\textbackslash linewidth} correspond à la largeur de la colonne courante, tandis que \texttt{\textbackslash textwidth} correspond à la largeur totale de la page.
+
+\subsection*{Exercice 4 : Placement des flottants avec différentes options}
+
+\begin{verbatim}
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{lipsum}
+
+\begin{document}
+
+\lipsum[1-2]
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\textwidth]{example-image-a}
+    \caption{Option h (here)}
+    \label{fig:h}
+\end{figure}
+
+\lipsum[3]
+
+\begin{figure}[t]
+    \centering
+    \includegraphics[width=0.4\textwidth]{example-image-b}
+    \caption{Option t (top)}
+    \label{fig:t}
+\end{figure}
+
+\begin{figure}[b]
+    \centering
+    \includegraphics[width=0.4\textwidth]{example-image-c}
+    \caption{Option b (bottom)}
+    \label{fig:b}
+\end{figure}
+
+\lipsum[4-8]
+
+\end{document}
+\end{verbatim}
+
+\textbf{Interactions observées :}
+\begin{itemize}
+\item \texttt{[h]} : Tente de placer le flottant à l'emplacement exact
+\item \texttt{[t]} : Priorité pour le haut de page
+\item \texttt{[b]} : Priorité pour le bas de page
+\item \texttt{[ht]} : Combine les possibilités "here" et "top"
+\item Plus on ajoute d'options, plus LaTeX a de flexibilité pour le placement
+\end{itemize}
+
+\subsection*{Exercice 5 : Références croisées et nombre de compilations}
+
+\begin{verbatim}
+\documentclass{article}
+\usepackage{graphicx}
+
+\begin{document}
+
+\section{Introduction}
+\label{sec:intro}
+
+Dans la section~\ref{sec:intro}, nous présentons...
+
+\subsection{Première sous-section}
+\label{subsec:premiere}
+
+Comme vu dans la sous-section~\ref{subsec:premiere}...
+
+\begin{enumerate}
+    \item Premier point
+    \item Deuxième point\label{item:deux}
+    \item Référence au point~\ref{item:deux}
+\end{enumerate}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.5\textwidth]{example-image}
+    \caption{Figure de test}
+    \label{fig:test}
+\end{figure}
+
+La figure~\ref{fig:test} montre...
+
+\end{document}
+\end{verbatim}
+
+\textbf{Résultat :} Il faut généralement \textbf{2 compilations} pour que les références soient correctement résolues.
+
+\subsection*{Exercice 6 : Placement de \textbackslash label avant/après \textbackslash caption}
+
+\begin{verbatim}
+\documentclass{article}
+\usepackage{graphicx}
+
+\begin{document}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.4\textwidth]{example-image-a}
+    \label{fig:avant}  % AVANT caption → MAUVAIS
+    \caption{Figure avec label avant}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.4\textwidth]{example-image-b}
+    \caption{Figure avec label après}
+    \label{fig:apres}  % APRÈS caption → CORRECT
+\end{figure}
+
+Référence à la figure~\ref{fig:avant} (incorrecte)\\
+Référence à la figure~\ref{fig:apres} (correcte)
+
+\end{document}
+\end{verbatim}
+
+\textbf{Résultat :}
+\begin{itemize}
+\item \texttt{\textbackslash label} avant \texttt{\textbackslash caption} → référence incorrecte (généralement vers la section précédente)
+\item \texttt{\textbackslash label} après \texttt{\textbackslash caption} → référence correcte vers la figure
+\end{itemize}
+
+\subsection*{Exercice 7 : \textbackslash label après \textbackslash end\{equation\}}
+
+\begin{verbatim}
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+\begin{equation}
+E = mc^2
+\end{equation}
+\label{eq:apres}  % APRÈS end{equation} → MAUVAIS
+
+\begin{equation}
+F = ma
+\label{eq:dedans}  % DANS equation → CORRECT
+\end{equation}
+
+Référence à l'équation~\ref{eq:apres} (incorrecte)\\
+Référence à l'équation~\ref{eq:dedans} (correcte)
+
+\end{document}
+\end{verbatim}
+
+\textbf{Résultat :}
+\begin{itemize}
+\item \texttt{\textbackslash label} après \texttt{\textbackslash end\{equation\}} → référence incorrecte (généralement vers la section précédente)
+\item \texttt{\textbackslash label} dans l'environnement \texttt{equation} → référence correcte vers l'équation
+\end{itemize}
+
+\section*{Conclusion des exercices}
+
+Les exercices montrent l'importance de :
+\begin{enumerate}
+\item Placer \texttt{\textbackslash label} toujours \textbf{à l'intérieur} de l'environnement à référencer
+\item Compiler \textbf{deux fois} pour résoudre les références croisées
+\item Utiliser les options de placement des flottants avec discernement
+\item Comprendre la différence entre \texttt{\textbackslash textwidth} et \texttt{\textbackslash linewidth}
+\end{enumerate}
+
+\end{document}

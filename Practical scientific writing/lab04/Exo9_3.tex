@@ -1,0 +1,27 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage[hidelniks]{hyperref}
+\subsection*{Exercise 3: Compare \textbackslash textwidth vs \textbackslash linewidth}
+
+\begin{document}
+
+\lipsum[1]
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.8\textwidth]{siriki}
+    \caption{Using \textbackslash textwidth}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.8\linewidth]{siriki}
+    \caption{Using \textbackslash linewidth}
+\end{figure}
+
+\lipsum[2-5]
+\end{document}

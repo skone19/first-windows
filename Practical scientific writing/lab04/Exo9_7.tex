@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage[hidelniks]{hyperref}
+\subsection*{Exercise 7: \textbackslash label After \textbackslash end\{equation\}}
+
+\begin{document}
+
+\begin{equation}
+E = mc^2
+\end{equation}
+\label{eq:after}  % AFTER end{equation} → WRONG
+
+\begin{equation}
+F = ma
+\label{eq:inside}  % INSIDE equation → CORRECT
+\end{equation}
+
+Reference to equation~\ref{eq:after} (incorrect)\\
+Reference to equation~\ref{eq:inside} (correct)
+
+\textbf{Result:}
+\begin{itemize}
+\item \texttt{\textbackslash label} after \texttt{\textbackslash end\{equation\}} → incorrect reference (usually to previous section)
+\item \texttt{\textbackslash label} inside the \texttt{equation} environment → correct reference to the equation
+\end{itemize}
+\end{document}
