@@ -1,0 +1,69 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{array}
+\usepackage{booktabs}
+
+\begin{document}
+
+\section*{Exercise Solutions 5.14}
+
+% Q1: Basic table from section 5.1
+% В1: Базовая таблица из раздела 5.1
+\begin{center}
+\begin{tabular}{lll}
+    Animal & Food & Size \\
+    dog & meat & medium \\
+    horse & hay & large \\
+    frog & flies & small \\
+\end{tabular}
+\end{center}
+
+% Q2: Different alignments from Table 5.1
+% В2: Разные выравнивания из Таблицы 5.1
+\begin{center}
+\begin{tabular}{l c r p{2cm}}
+\toprule
+Left & Center & Right & Paragraph \\
+Слева & Центр & Справа & Параграф \\
+\midrule
+data & data & data & Long text here \\
+данные & данные & данные & Длинный текст здесь \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% Q3 & Q4: Item count testing
+% В3 & В4: Тестирование количества элементов
+\begin{center}
+\begin{tabular}{lll}
+\toprule
+Column 1 & Column 2 & Column 3 \\
+Колонка 1 & Колонка 2 & Колонка 3 \\
+\midrule
+item1 & value1 & data1 \\
+элемент1 & значение1 & данные1 \\
+item2 &  & data2 \\
+элемент2 &  & данные2 \\
+ & value3 &  \\
+ & значение3 &  \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% Q5: Multi-column from section 5.3
+% В5: Multi-column из раздела 5.3
+\begin{center}
+\begin{tabular}{lll}
+\toprule
+\multicolumn{1}{c}{Animal} & \multicolumn{1}{c}{Food} & \multicolumn{1}{c}{Size} \\
+\multicolumn{1}{c}{Животное} & \multicolumn{1}{c}{Еда} & \multicolumn{1}{c}{Размер} \\
+\midrule
+dog & meat & medium \\
+собака & мясо & средний \\
+\multicolumn{2}{c}{herbivores} & large \\
+\multicolumn{2}{c}{травоядные} & большой \\
+\multicolumn{3}{c}{End of table / Конец таблицы} \\
+\bottomrule
+\end{tabular}
+\end{center}
+\end{document}

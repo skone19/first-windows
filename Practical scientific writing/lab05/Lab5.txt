@@ -1,0 +1,193 @@
+# Exercise 5.14: Tables Practice / Упражнение 5.14: Практика с таблицами
+
+## Question 1: Basic Table Structure / Вопрос 1: Базовая структура таблицы
+
+**Based on Section 5.1 / На основе раздела 5.1**
+
+```latex
+% Using the simple table example from the document
+% Используя простой пример таблицы из документа
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{array}
+
+\begin{document}
+
+\begin{tabular}{lll}
+    Animal & Food & Size \\
+    dog & meat & medium \\
+    horse & hay & large \\
+    frog & flies & small \\
+\end{tabular}
+
+\end{document}
+```
+
+**Observation:** This creates a basic table with natural column widths as shown in section 5.1
+**Наблюдение:** Это создает базовую таблицу с естественной шириной колонок, как показано в разделе 5.1
+
+---
+
+## Question 2: Column Alignment Types / Вопрос 2: Типы выравнивания колонок
+
+**Based on Table 5.1 / На основе Таблицы 5.1**
+
+```latex
+\begin{tabular}{l c r p{3cm}}
+\toprule
+\textbf{Left (l)} & \textbf{Center (c)} & \textbf{Right (r)} & \textbf{Paragraph (p)} \\
+\textbf{Слева (l)} & \textbf{Центр (c)} & \textbf{Справа (r)} & \textbf{Параграф (p)} \\
+\midrule
+dog / собака & meat / мясо & medium / средний & Animal description... \\
+horse / лошадь & hay / сено & large / большой & Large herbivorous mammal \\
+frog / лягушка & flies / мухи & small / маленький & Small amphibian creature \\
+\bottomrule
+\end{tabular}
+```
+
+**Key alignments from document:** l (left), c (center), r (right), p{width} (paragraph)
+**Основные выравнивания из документа:** l (слева), c (центр), r (справа), p{width} (параграф)
+
+---
+
+## Question 3: Too Few Items in Row / Вопрос 3: Слишком мало элементов в строке
+
+**Based on array package behavior / На основе поведения пакета array**
+
+```latex
+\begin{tabular}{lll}
+\toprule
+Animal & Food & Size \\
+\midrule
+dog & meat & medium \\
+cat & fish &  \\
+rabbit &  & small \\
+ & grass & medium \\
+\bottomrule
+\end{tabular}
+```
+
+**Result:** Empty cells are created, no compilation error
+**Результат:** Создаются пустые ячейки, ошибки компиляции нет
+
+---
+
+## Question 4: Too Many Items in Row / Вопрос 4: Слишком много элементов в строке
+
+**Based on error handling in document / На основе обработки ошибок в документе**
+
+```latex
+% This will cause an error as shown in document examples
+% Это вызовет ошибку, как показано в примерах документа
+\begin{tabular}{lll}
+\toprule
+Animal & Food & Size \\
+\midrule
+dog & meat & medium & extra-item \\
+\end{tabular}
+```
+
+**Error message:** "Extra alignment tab has been changed to \cr"
+**Сообщение об ошибке:** "Extra alignment tab has been changed to \cr"
+
+**Solution from document:** Use correct number of columns or multicolumn
+**Решение из документа:** Использовать правильное количество колонок или multicolumn
+
+---
+
+## Question 5: Multi-column Experiment / Вопрос 5: Эксперимент с Multi-column
+
+**Based on Section 5.3 / На основе раздела 5.3**
+
+```latex
+\usepackage{array}
+\usepackage{booktabs}
+
+\begin{tabular}{lll}
+\toprule
+Animal & Food & Size \\
+\midrule
+dog & meat & medium \\
+horse & hay & large \\
+\multicolumn{2}{c}{Unknown animal} & small \\
+bird & \multicolumn{2}{c}{Various foods and sizes} \\
+\multicolumn{3}{c}{\textbf{Summary: All animals listed}} \\
+\bottomrule
+\end{tabular}
+```
+
+**Complete working example based on document structure:**
+**Полный рабочий пример на основе структуры документа:**
+
+```latex
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{array}
+\usepackage{booktabs}
+
+\begin{document}
+
+\section*{Exercise 5.14 Solutions / Решения упражнения 5.14}
+
+% Q1: Basic table from section 5.1
+% В1: Базовая таблица из раздела 5.1
+\begin{center}
+\begin{tabular}{lll}
+    Animal & Food & Size \\
+    dog & meat & medium \\
+    horse & hay & large \\
+    frog & flies & small \\
+\end{tabular}
+\end{center}
+
+% Q2: Different alignments from Table 5.1
+% В2: Разные выравнивания из Таблицы 5.1
+\begin{center}
+\begin{tabular}{l c r p{2cm}}
+\toprule
+Left & Center & Right & Paragraph \\
+Слева & Центр & Справа & Параграф \\
+\midrule
+data & data & data & Long text here \\
+данные & данные & данные & Длинный текст здесь \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% Q3 & Q4: Item count testing
+% В3 & В4: Тестирование количества элементов
+\begin{center}
+\begin{tabular}{lll}
+\toprule
+Column 1 & Column 2 & Column 3 \\
+Колонка 1 & Колонка 2 & Колонка 3 \\
+\midrule
+item1 & value1 & data1 \\
+элемент1 & значение1 & данные1 \\
+item2 &  & data2 \\
+элемент2 &  & данные2 \\
+ & value3 &  \\
+ & значение3 &  \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% Q5: Multi-column from section 5.3
+% В5: Multi-column из раздела 5.3
+\begin{center}
+\begin{tabular}{lll}
+\toprule
+\multicolumn{1}{c}{Animal} & \multicolumn{1}{c}{Food} & \multicolumn{1}{c}{Size} \\
+\multicolumn{1}{c}{Животное} & \multicolumn{1}{c}{Еда} & \multicolumn{1}{c}{Размер} \\
+\midrule
+dog & meat & medium \\
+собака & мясо & средний \\
+\multicolumn{2}{c}{herbivores} & large \\
+\multicolumn{2}{c}{травоядные} & большой \\
+\multicolumn{3}{c}{End of table / Конец таблицы} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\end{document}
+```

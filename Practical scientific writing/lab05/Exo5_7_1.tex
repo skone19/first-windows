@@ -1,0 +1,29 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{array}
+\begin{document}
+\begin{center}
+\begin{tabular}{cc}
+\hline
+A & B\\
+C & D\\
+\hline
+\end{tabular}
+\end{center}
+\begin{center}
+\begin{tabular*}{.5\textwidth}{@{\extracolsep{\fill}}cc@{}}
+\hline
+A & B\\
+C & D\\
+\hline
+\end{tabular*}
+\end{center}
+\begin{center}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}cc@{}}
+\hline
+A & B\\
+C & D\\
+\hline
+\end{tabular*}
+\end{center}
+\end{document}

@@ -1,0 +1,361 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.22)  28 OCT 2025 19:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Exo5_8.tex
+(./Exo5_8.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+(c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(c:/texlive/2025/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(c:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(c:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+)
+(c:/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+\col@sep=\dimen157
+\ar@mcellbox=\box53
+\extrarowheight=\dimen158
+\NC@list=\toks19
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box54
+)
+(c:/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count286
+\LTcapwidth=\dimen159
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count287
+\LT@rows=\count288
+\c@LT@tables=\count289
+\c@LT@chunks=\count290
+\LT@p@ftn=\toks20
+)
+(c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count291
+)
+No file Exo5_8.aux.
+\openout1 = `Exo5_8.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(34.14365pt, 159.33473pt, 34.14366pt)
+* v-part:(T,H,B)=(27.31491pt, 159.33473pt, 40.9724pt)
+* \paperwidth=227.62204pt
+* \paperheight=227.62204pt
+* \textwidth=159.33473pt
+* \textheight=159.33473pt
+* \oddsidemargin=-38.12634pt
+* \evensidemargin=-38.12634pt
+* \topmargin=-81.95508pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+! LaTeX Error: Environment longtable* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \begin{longtable*}
+                      {cc}
+? 
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.7 \multicolumn{2}{c}{A Long Table}
+                                    \\
+? 
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.7 \multicolumn{2}{c}{A Long Table}
+                                    \\
+? 
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.7 \multicolumn{2}{c}{A Long Table}
+                                    \\
+? 
+! Misplaced alignment tab character &.
+l.8 Left Side &
+                Right Side\\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.9 \hline
+          
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
+
+ []
+
+! Misplaced \crcr.
+\LT@echunk ->\crcr 
+                   \LT@save@row \cr \egroup \global \setbox \LT@gbox \lastbo...
+l.10 \endhead
+             
+? 
+! Undefined control sequence.
+\LT@echunk ->\crcr \LT@save@row 
+                                \cr \egroup \global \setbox \LT@gbox \lastbo...
+l.10 \endhead
+             
+? 
+! Misplaced \cr.
+\LT@echunk ->\crcr \LT@save@row \cr 
+                                    \egroup \global \setbox \LT@gbox \lastbo...
+l.10 \endhead
+             
+? 
+! Extra }, or forgotten \endgroup.
+\LT@echunk ->\crcr \LT@save@row \cr \egroup 
+                                            \global \setbox \LT@gbox \lastbo...
+l.10 \endhead
+             
+? 
+! Extra }, or forgotten \endgroup.
+\LT@echunk ...x \LT@gbox \lastbox \unskip \egroup 
+                                                  
+l.10 \endhead
+             
+? 
+! Undefined control sequence.
+\LT@end@hd@ft ...and #1}\LT@get@widths \LT@bchunk 
+                                                  
+l.10 \endhead
+             
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.11 \hline
+           
+? 
+! Misplaced \crcr.
+\LT@echunk ->\crcr 
+                   \LT@save@row \cr \egroup \global \setbox \LT@gbox \lastbo...
+l.12 \endfoot
+             
+? 
+! Misplaced \cr.
+\LT@echunk ->\crcr \LT@save@row \cr 
+                                    \egroup \global \setbox \LT@gbox \lastbo...
+l.12 \endfoot
+             
+? 
+! Extra }, or forgotten \endgroup.
+\LT@echunk ->\crcr \LT@save@row \cr \egroup 
+                                            \global \setbox \LT@gbox \lastbo...
+l.12 \endfoot
+             
+? 
+! Extra }, or forgotten \endgroup.
+\LT@echunk ...x \LT@gbox \lastbox \unskip \egroup 
+                                                  
+l.12 \endfoot
+             
+? 
+! Undefined control sequence.
+\LT@end@hd@ft ...and #1}\LT@get@widths \LT@bchunk 
+                                                  
+l.12 \endfoot
+             
+? 
+! Misplaced alignment tab character &.
+l.13 aa &
+          bb\\
+? 
+! Misplaced alignment tab character &.
+l.14 Entry &
+             b\\
+? 
+! Misplaced alignment tab character &.
+l.15 a &
+         b\\
+? 
+! Misplaced alignment tab character &.
+l.16 a &
+         b\\
+? 
+! Misplaced alignment tab character &.
+l.17 a &
+         b\\
+? 
+! Misplaced alignment tab character &.
+l.18 a &
+         b\\
+? 
+! Misplaced alignment tab character &.
+l.19 a &
+         bbb\\
+? 
+! Misplaced alignment tab character &.
+l.20 a &
+         b\\
+? 
+! Misplaced alignment tab character &.
+l.21 a &
+         b\\
+? 
+! Misplaced alignment tab character &.
+l.22 a &
+         b\\
+? 
+! Misplaced alignment tab character &.
+l.23 a &
+         b\\
+? 
+! Misplaced alignment tab character &.
+l.24 a &
+         b\\
+? 
+! Misplaced alignment tab character &.
+l.25 a &
+         b\\
+? 
+! Misplaced alignment tab character &.
+l.26 a &
+         b b b b b b\\
+? 
+! Misplaced alignment tab character &.
+l.27 a &
+         b b b b b\\
+? 
+! Misplaced alignment tab character &.
+l.28 a &
+         b b\\
+? 
+! Misplaced alignment tab character &.
+l.29 A Wider Entry &
+                     b\\
+? 
+
+! LaTeX Error: \begin{document} ended by \end{longtable*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \end{longtable*}
+                     
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--31
+
+ []
+
+
+
+[1
+
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+[2] (./Exo5_8.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1205 strings out of 469735
+ 19591 string characters out of 5481518
+ 432987 words of memory out of 5000000
+ 29663 multiletter control sequences out of 15000+600000
+ 626825 words of font info for 40 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 57i,5n,65p,178b,116s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on Exo5_8.pdf (2 pages, 16332 bytes).
+PDF statistics:
+ 16 PDF objects out of 1000 (max. 8388607)
+ 9 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

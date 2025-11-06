@@ -1,0 +1,256 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.22)  28 OCT 2025 19:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Exo5_10.tex
+(./Exo5_10.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+(c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(c:/texlive/2025/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(c:/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+)
+(c:/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+\col@sep=\dimen149
+\ar@mcellbox=\box53
+\extrarowheight=\dimen150
+\NC@list=\toks17
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box54
+)
+
+! LaTeX Error: File `ragged2e.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+)
+No file Exo5_10.aux.
+\openout1 = `Exo5_10.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 7.
+
+! LaTeX Error: Unicode character ↪ (U+21AA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ↪
+        example text.\\
+? 
+
+Underfull \hbox (badness 1881) in paragraph at lines 8--10
+\T1/cmr/m/n/10 nar-row para-graph,
+ []
+
+
+! LaTeX Error: Unicode character ↪ (U+21AA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ↪
+         some more hard to hyphenate words.
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+[]|\T1/cmr/m/n/10 A dif-fer-ent long
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+\T1/cmr/m/n/10 para-graph, with
+ []
+
+
+! LaTeX Error: Unicode character ↪ (U+21AA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ↪
+         example text.\\
+? 
+
+! LaTeX Error: Unicode character ↪ (U+21AA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ↪
+         some more hard to hyphenate words.
+? 
+! Undefined control sequence.
+<template> ...ocket {tbl/pcell/begin}\RaggedRight 
+                                                  \relax \ignorespaces 
+l.20 One & A
+             long text set in a narrow paragraph, with some more
+? 
+
+! LaTeX Error: Unicode character ↪ (U+21AA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ↪
+         example text.\\
+? 
+
+Underfull \hbox (badness 1881) in paragraph at lines 20--22
+\T1/cmr/m/n/10 nar-row para-graph,
+ []
+
+! Undefined control sequence.
+<template> ...ocket {tbl/pcell/begin}\RaggedRight 
+                                                  \relax \ignorespaces 
+l.22 Two & A
+             different long text set in a narrow paragraph, with
+? 
+
+! LaTeX Error: Unicode character ↪ (U+21AA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ↪
+         some more hard to hyphenate words.
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+[]|\T1/cmr/m/n/10 A dif-fer-ent long
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+\T1/cmr/m/n/10 para-graph, with
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 26.
+
+! LaTeX Error: Unicode character ↪ (U+21AA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ↪
+         example text.\\
+? 
+
+Underfull \hbox (badness 2698) in paragraph at lines 27--29
+\T1/cmr/m/n/8 row para-graph, with
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 27--29
+\T1/cmr/m/n/8 some more  ex-am-ple
+ []
+
+
+! LaTeX Error: Unicode character ↪ (U+21AA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 ↪
+         some more hard to hyphenate words.
+? 
+
+Underfull \hbox (badness 1062) in paragraph at lines 29--31
+[]|\T1/cmr/m/n/8 A dif-fer-ent long text
+ []
+
+
+Underfull \hbox (badness 6236) in paragraph at lines 29--31
+\T1/cmr/m/n/8 graph, with  some
+ []
+
+
+Overfull \hbox (38.0614pt too wide) in paragraph at lines 7--32
+[][][][]
+ []
+
+
+
+[1{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./Exo5_10.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 743 strings out of 469735
+ 11034 string characters out of 5481518
+ 435987 words of memory out of 5000000
+ 29208 multiletter control sequences out of 15000+600000
+ 630175 words of font info for 48 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 35i,10n,38p,162b,210s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <c:/Users/KONE/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.6
+00pk> <c:/Users/KONE/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm100
+0.600pk>
+Output written on Exo5_10.pdf (1 page, 14369 bytes).
+PDF statistics:
+ 65 PDF objects out of 1000 (max. 8388607)
+ 12 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

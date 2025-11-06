@@ -1,0 +1,18 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{array}
+\usepackage{booktabs}
+\begin{document}
+\begin{tabular}{lll}
+\toprule
+Animal & Food & Size \\
+\midrule
+dog & meat & medium \\
+\cmidrule{1-2}
+horse & hay & large \\
+\cmidrule(r){1-1}
+\cmidrule(rl){2-2}
+\cmidrule(l){3-3}
+frog & flies & small \\
+\bottomrule
+\end{tabular}

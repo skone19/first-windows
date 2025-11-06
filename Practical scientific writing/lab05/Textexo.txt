@@ -1,0 +1,238 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage[hidelinks]{hyperref}
+
+\begin{document}
+
+\section*{Solution for Exercises 4.9}
+
+\subsection*{Exercise 1: Include Your Own Image}
+
+\begin{verbatim}
+\documentclass{article}
+\usepackage{graphicx}
+
+\begin{document}
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.6\textwidth]{my-image.png}
+    \caption{My personal image}
+    \label{fig:myimage}
+\end{figure}
+\end{document}
+\end{verbatim}
+
+\textbf{Note:} Replace \texttt{my-image.png} with the path to your own image file.
+
+\subsection*{Exercise 2: Explore Size and Rotation Options}
+
+\begin{verbatim}
+\documentclass{article}
+\usepackage{graphicx}
+
+\begin{document}
+
+% Different formatting options
+\includegraphics[height=3cm]{example-image} \\
+\includegraphics[width=0.3\textwidth]{example-image} \\
+\includegraphics[scale=0.5]{example-image} \\
+\includegraphics[angle=45, width=0.2\textwidth]{example-image}
+
+\end{document}
+\end{verbatim}
+
+\subsection*{Exercise 3: Compare \textbackslash textwidth vs \textbackslash linewidth}
+
+\begin{verbatim}
+\documentclass[twocolumn]{article}
+\usepackage{graphicx}
+\usepackage{lipsum}
+
+\begin{document}
+
+\lipsum[1]
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.8\textwidth]{example-image}
+    \caption{Using \textbackslash textwidth}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.8\linewidth]{example-image}
+    \caption{Using \textbackslash linewidth}
+\end{figure}
+
+\lipsum[2-5]
+
+\end{document}
+\end{verbatim}
+
+\textbf{Observation:} With the \texttt{twocolumn} option, \texttt{\textbackslash linewidth} corresponds to the current column width, while \texttt{\textbackslash textwidth} corresponds to the total page width.
+
+\subsection*{Exercise 4: Float Placement with Different Specifiers}
+
+\begin{verbatim}
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{lipsum}
+
+\begin{document}
+
+\lipsum[1-2]
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\textwidth]{example-image-a}
+    \caption{Option h (here)}
+    \label{fig:h}
+\end{figure}
+
+\lipsum[3]
+
+\begin{figure}[t]
+    \centering
+    \includegraphics[width=0.4\textwidth]{example-image-b}
+    \caption{Option t (top)}
+    \label{fig:t}
+\end{figure}
+
+\begin{figure}[b]
+    \centering
+    \includegraphics[width=0.4\textwidth]{example-image-c}
+    \caption{Option b (bottom)}
+    \label{fig:b}
+\end{figure}
+
+\lipsum[4-8]
+
+\end{document}
+\end{verbatim}
+
+\textbf{Observed interactions:}
+\begin{itemize}
+\item \texttt{[h]} : Tries to place the float at the exact location
+\item \texttt{[t]} : Priority for top of page
+\item \texttt{[b]} : Priority for bottom of page
+\item \texttt{[ht]} : Combines "here" and "top" possibilities
+\item The more options you add, the more flexibility LaTeX has for placement
+\end{itemize}
+
+\subsection*{Exercise 5: Cross-references and Number of Compilations}
+
+\begin{verbatim}
+\documentclass{article}
+\usepackage{graphicx}
+
+\begin{document}
+
+\section{Introduction}
+\label{sec:intro}
+
+In section~\ref{sec:intro}, we present...
+
+\subsection{First subsection}
+\label{subsec:first}
+
+As seen in subsection~\ref{subsec:first}...
+
+\begin{enumerate}
+    \item First point
+    \item Second point\label{item:second}
+    \item Reference to point~\ref{item:second}
+\end{enumerate}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.5\textwidth]{example-image}
+    \caption{Test figure}
+    \label{fig:test}
+\end{figure}
+
+Figure~\ref{fig:test} shows...
+
+\end{document}
+\end{verbatim}
+
+\textbf{Result:} Typically requires \textbf{2 compilations} for references to be correctly resolved.
+
+\subsection*{Exercise 6: Placing \textbackslash label Before/After \textbackslash caption}
+
+\begin{verbatim}
+\documentclass{article}
+\usepackage{graphicx}
+
+\begin{document}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.4\textwidth]{example-image-a}
+    \label{fig:before}  % BEFORE caption → WRONG
+    \caption{Figure with label before}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.4\textwidth]{example-image-b}
+    \caption{Figure with label after}
+    \label{fig:after}  % AFTER caption → CORRECT
+\end{figure}
+
+Reference to figure~\ref{fig:before} (incorrect)\\
+Reference to figure~\ref{fig:after} (correct)
+
+\end{document}
+\end{verbatim}
+
+\textbf{Result:}
+\begin{itemize}
+\item \texttt{\textbackslash label} before \texttt{\textbackslash caption} → incorrect reference (usually to previous section)
+\item \texttt{\textbackslash label} after \texttt{\textbackslash caption} → correct reference to the figure
+\end{itemize}
+
+\subsection*{Exercise 7: \textbackslash label After \textbackslash end\{equation\}}
+
+\begin{verbatim}
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+\begin{equation}
+E = mc^2
+\end{equation}
+\label{eq:after}  % AFTER end{equation} → WRONG
+
+\begin{equation}
+F = ma
+\label{eq:inside}  % INSIDE equation → CORRECT
+\end{equation}
+
+Reference to equation~\ref{eq:after} (incorrect)\\
+Reference to equation~\ref{eq:inside} (correct)
+
+\end{document}
+\end{verbatim}
+
+\textbf{Result:}
+\begin{itemize}
+\item \texttt{\textbackslash label} after \texttt{\textbackslash end\{equation\}} → incorrect reference (usually to previous section)
+\item \texttt{\textbackslash label} inside the \texttt{equation} environment → correct reference to the equation
+\end{itemize}
+
+\section*{Summary of Exercises}
+
+The exercises demonstrate the importance of:
+\begin{enumerate}
+\item Always placing \texttt{\textbackslash label} \textbf{inside} the environment being referenced
+\item \textbf{Compiling twice} to resolve cross-references
+\item Using float placement options judiciously
+\item Understanding the difference between \texttt{\textbackslash textwidth} and \texttt{\textbackslash linewidth}
+\end{enumerate}
+
+\end{document}

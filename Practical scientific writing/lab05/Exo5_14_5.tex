@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{array}
+
+\begin{document}
+latex
+\usepackage{array}
+\usepackage{booktabs}
+
+\begin{tabular}{lll}
+\toprule
+Animal & Food & Size \\
+\midrule
+dog & meat & medium \\
+horse & hay & large \\
+\multicolumn{2}{c}{Unknown animal} & small \\
+bird & \multicolumn{2}{c}{Various foods and sizes} \\
+\multicolumn{3}{c}{\textbf{Summary: All animals listed}} \\
+\bottomrule
+\end{tabular}
+\end{document}
