@@ -1,0 +1,15 @@
+[8] Config.pm:328> INFO - This is Biber 2.21
+[22] Config.pm:331> INFO - Logfile is 'Exo6_9_1b.blg'
+[4541] biber-MSWIN64:342> INFO - === 
+[4860] Biber.pm:421> INFO - Reading 'Exo6_9_1b.bcf'
+[7895] Biber.pm:1002> INFO - Found 2 citekeys in bib section 0
+[8269] Biber.pm:4487> INFO - Processing section 0
+[8467] Biber.pm:4678> INFO - Looking for bibtex file 'learnlatex.bib' for section 0
+[9303] bibtex.pm:1713> INFO - LaTeX decoding ...
+[9505] bibtex.pm:1519> INFO - Found BibTeX data source 'learnlatex.bib'
+[10322] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[10327] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[10328] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[10330] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[10362] bbl.pm:676> INFO - Writing 'Exo6_9_1b.bbl' with encoding 'UTF-8'
+[10377] bbl.pm:779> INFO - Output to Exo6_9_1b.bbl

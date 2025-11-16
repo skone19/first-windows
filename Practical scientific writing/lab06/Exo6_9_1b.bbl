@@ -1,0 +1,84 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Graham1995}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=64759ae18ce4891a547b035d2ebc9fd5}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{64759ae18ce4891a547b035d2ebc9fd5}
+      \strng{fullhash}{64759ae18ce4891a547b035d2ebc9fd5}
+      \strng{fullhashraw}{64759ae18ce4891a547b035d2ebc9fd5}
+      \strng{bibnamehash}{64759ae18ce4891a547b035d2ebc9fd5}
+      \strng{authorbibnamehash}{64759ae18ce4891a547b035d2ebc9fd5}
+      \strng{authornamehash}{64759ae18ce4891a547b035d2ebc9fd5}
+      \strng{authorfullhash}{64759ae18ce4891a547b035d2ebc9fd5}
+      \strng{authorfullhashraw}{64759ae18ce4891a547b035d2ebc9fd5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Concrete Mathematics}
+      \field{year}{1995}
+    \endentry
+    \entry{Thomas2008}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13800dd1ba702b497cdc1fc79f89c21f}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{13800dd1ba702b497cdc1fc79f89c21f}
+      \strng{fullhash}{13800dd1ba702b497cdc1fc79f89c21f}
+      \strng{fullhashraw}{13800dd1ba702b497cdc1fc79f89c21f}
+      \strng{bibnamehash}{13800dd1ba702b497cdc1fc79f89c21f}
+      \strng{authorbibnamehash}{13800dd1ba702b497cdc1fc79f89c21f}
+      \strng{authornamehash}{13800dd1ba702b497cdc1fc79f89c21f}
+      \strng{authorfullhash}{13800dd1ba702b497cdc1fc79f89c21f}
+      \strng{authorfullhashraw}{13800dd1ba702b497cdc1fc79f89c21f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Examples}
+      \field{title}{An interesting article}
+      \field{volume}{5}
+      \field{year}{2008}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

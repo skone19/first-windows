@@ -1,0 +1,14 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[style=authoryear]{biblatex}
+\addbibresource{learnlatex.bib}
+
+\begin{document}
+Link to an existing record: \cite{Graham1995}.
+
+Link to an missing record: \cite{MissingEntry2024}.
+
+Combined link: \cite{Graham1995,MissingEntry2024,Thomas2008}.
+
+\printbibliography
+\end{document}

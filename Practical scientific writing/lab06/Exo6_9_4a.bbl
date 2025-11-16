@@ -1,0 +1,18 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Graham(1995)]{Graham1995}
+Ronald Graham.
+\newblock \emph{Concrete Mathematics}.
+\newblock Addison-Wesley, 1995.
+
+\bibitem[Thomas(2008)]{Thomas2008}
+Alice Thomas.
+\newblock An interesting article.
+\newblock \emph{Journal of Examples}, 5:\penalty0 100--120, 2008.
+
+\end{thebibliography}

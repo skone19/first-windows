@@ -1,0 +1,137 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.22)  10 NOV 2025 14:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Exo6_4.tex
+(./Exo6_4.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+(c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(c:/texlive/2025/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(c:/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+)
+
+! LaTeX Error: File `biblatex.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Undefined control sequence.
+<recently read> \addbibresource 
+                                
+l.4 \addbibresource
+                   {learnlatex.bib} % file of reference info
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \addbibresource{l
+                     earnlatex.bib} % file of reference info
+? 
+(c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+)
+No file Exo6_4.aux.
+\openout1 = `Exo6_4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+! Undefined control sequence.
+l.6 The mathematics showcase is from \autocite
+                                              {Graham1995}.
+? 
+! Undefined control sequence.
+l.7 Some more complex citations: \parencite
+                                           {Graham1995} or
+? 
+! Undefined control sequence.
+l.8 \textcite
+             {Thomas2008} or possibly \citetitle{Graham1995}.
+? 
+! Undefined control sequence.
+l.8 \textcite{Thomas2008} or possibly \citetitle
+                                                {Graham1995}.
+? 
+! Undefined control sequence.
+l.9 \autocite
+             [56]{Thomas2008}
+? 
+! Undefined control sequence.
+l.10 \autocite
+              [See][45-48]{Graham1995}
+? 
+! Undefined control sequence.
+l.11 Together \autocite
+                       {Thomas2008,Graham1995}
+? 
+! Undefined control sequence.
+l.12 \printbibliography
+                       
+? 
+
+Overfull \hbox (44.78445pt too wide) in paragraph at lines 4--13
+\T1/cmr/m/n/10 com-plex ci-ta-tions: Gra-ham1995 or Thomas2008 or pos-si-bly Gr
+a-ham1995. [56]Thomas2008
+ []
+
+
+
+[1
+
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Exo6_4.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 648 strings out of 469735
+ 9682 string characters out of 5481518
+ 431987 words of memory out of 5000000
+ 29123 multiletter control sequences out of 15000+600000
+ 627588 words of font info for 41 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 35i,5n,38p,150b,116s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <c:/Users/KONE/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.6
+00pk>
+Output written on Exo6_4.pdf (1 page, 11105 bytes).
+PDF statistics:
+ 48 PDF objects out of 1000 (max. 8388607)
+ 8 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
