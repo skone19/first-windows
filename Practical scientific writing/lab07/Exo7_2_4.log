@@ -1,0 +1,3616 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.10)  25 NOV 2025 14:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Exo7_2_4.tex
+(./Exo7_2_4.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+(c:/texlive/2025/texmf-dist/tex/latex/tikzposter/tikzposter.cls
+Document Class: tikzposter 2014/01/15 v2.0 LaTeX document class for Posters
+
+! LaTeX Error: File `xkeyval.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(c:/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count275
+\calc@Bcount=\count276
+\calc@Adimen=\dimen148
+\calc@Bdimen=\dimen149
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count277
+\calc@Cskip=\skip51
+)
+(c:/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2025/texmf-dist/tex/latex/ae/ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(c:/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+))
+
+! LaTeX Error: File `xstring.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(c:/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count278
+)
+(c:/texlive/2025/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen150
+\pgfutil@tempdimb=\dimen151
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box53
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
+(c:/texlive/2025/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.co
+de.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen154
+\pgf@y=\dimen155
+\pgf@xa=\dimen156
+\pgf@ya=\dimen157
+\pgf@xb=\dimen158
+\pgf@yb=\dimen159
+\pgf@xc=\dimen160
+\pgf@yc=\dimen161
+\pgf@xd=\dimen162
+\pgf@yd=\dimen163
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count279
+\c@pgf@countb=\count280
+\c@pgf@countc=\count281
+\c@pgf@countd=\count282
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count283
+ (c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count284
+\pgfsyssoftpath@bigbuffer@items=\count285
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen164
+\pgfmath@count=\count286
+\pgfmath@box=\box54
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count287
+))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen165
+\pgf@picmaxx=\dimen166
+\pgf@picminy=\dimen167
+\pgf@picmaxy=\dimen168
+\pgf@pathminx=\dimen169
+\pgf@pathmaxx=\dimen170
+\pgf@pathminy=\dimen171
+\pgf@pathmaxy=\dimen172
+\pgf@xx=\dimen173
+\pgf@xy=\dimen174
+\pgf@yx=\dimen175
+\pgf@yy=\dimen176
+\pgf@zx=\dimen177
+\pgf@zy=\dimen178
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen179
+\pgf@path@lasty=\dimen180
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen181
+\pgf@shorten@start@additional=\dimen182
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count288
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen183
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen184
+\pgf@pt@y=\dimen185
+\pgf@pt@temp=\dimen186
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen187
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen188
+\pgf@sys@shading@range@num=\count289
+\pgf@shadingcount=\count290
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box58
+) (c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (c:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box59
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(c:/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen189
+\pgf@nodesepend=\dimen190
+)
+(c:/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (c:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2025/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen191
+\pgffor@skip=\dimen192
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count291
+\pgfplotmarksize=\dimen193
+)
+\tikz@lastx=\dimen194
+\tikz@lasty=\dimen195
+\tikz@lastxsaved=\dimen196
+\tikz@lastysaved=\dimen197
+\tikz@lastmovetox=\dimen198
+\tikz@lastmovetoy=\dimen199
+\tikzleveldistance=\dimen256
+\tikzsiblingdistance=\dimen257
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count292
+\tikznumberofchildren=\count293
+\tikznumberofcurrentchild=\count294
+\tikz@fig@count=\count295
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count296
+\pgfmatrixcurrentcolumn=\count297
+\pgf@matrix@numberofcolumns=\count298
+)
+\tikz@expandcount=\count299
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.g
+eometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.m
+isc.code.tex
+File: pgflibraryshapes.misc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.s
+ymbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.a
+rrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.callouts.code.tex
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.c
+allouts.code.tex))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.m
+ultipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodepartlowerbox=\box64
+\pgfnodeparttwobox=\box65
+\pgfnodepartthreebox=\box66
+\pgfnodepartfourbox=\box67
+\pgfnodeparttwentybox=\box68
+\pgfnodepartnineteenbox=\box69
+\pgfnodeparteighteenbox=\box70
+\pgfnodepartseventeenbox=\box71
+\pgfnodepartsixteenbox=\box72
+\pgfnodepartfifteenbox=\box73
+\pgfnodepartfourteenbox=\box74
+\pgfnodepartthirteenbox=\box75
+\pgfnodeparttwelvebox=\box76
+\pgfnodepartelevenbox=\box77
+\pgfnodeparttenbox=\box78
+\pgfnodepartninebox=\box79
+\pgfnodeparteightbox=\box80
+\pgfnodepartsevenbox=\box81
+\pgfnodepartsixbox=\box82
+\pgfnodepartfivebox=\box83
+)))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.code.tex
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.t
+ex
+\pgfdecoratedcompleteddistance=\dimen258
+\pgfdecoratedremainingdistance=\dimen259
+\pgfdecoratedinputsegmentcompleteddistance=\dimen260
+\pgfdecoratedinputsegmentremainingdistance=\dimen261
+\pgf@decorate@distancetomove=\dimen262
+\pgf@decorate@repeatstate=\count300
+\pgfdecorationsegmentamplitude=\dimen263
+\pgfdecorationsegmentlength=\dimen264
+)
+\tikz@lib@dec@box=\box84
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.te
+x
+File: pgflibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@layerbox@background=\box85
+\pgf@layerboxsaved@background=\box86
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryfit.code.tex
+File: tikzlibraryfit.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathmorphing.code.tex
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathmorphing.code.tex))
+(c:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\arrowsize=\dimen265
+)
+\TP@innermargin=\dimen266
+\TP@visibletextwidth=\dimen267
+\TP@visibletextheight=\dimen268
+\TP@titlewidth=\dimen269
+\titlewidth=\dimen270
+\TP@titlelinewidth=\dimen271
+\titlelinewidth=\dimen272
+\titleinnersep=\dimen273
+\TP@titleinnersep=\dimen274
+\TP@titletotopverticalspace=\dimen275
+\titletotopverticalspace=\dimen276
+\TP@titletoblockverticalspace=\dimen277
+\TP@titleheight=\dimen278
+\titleheight=\dimen279
+\titlegraphicheight=\dimen280
+\titleposleft=\dimen281
+\titleposright=\dimen282
+\titlepostop=\dimen283
+\titleposbottom=\dimen284
+\TP@titlegraphictotitledistance=\dimen285
+\TP@colspace=\dimen286
+\TP@coltop=\dimen287
+\TP@colbottom=\dimen288
+\TP@colcenter=\dimen289
+\colwidth=\dimen290
+\TP@subcolspace=\dimen291
+\TP@subcoltop=\dimen292
+\TP@subcolbottom=\dimen293
+\TP@subcolcenter=\dimen294
+\subcolwidth=\dimen295
+\TP@blockverticalspace=\dimen296
+\TP@blockcenter=\dimen297
+\TP@blocktitleinnersep=\dimen298
+\blocktitleinnersep=\dimen299
+\TP@blockbodyinnersep=\dimen300
+\blockbodyinnersep=\dimen301
+\TP@blocktitlebox=\box87
+\TP@blockbodybox=\box88
+\TP@blocktitlewidth=\dimen302
+\TP@blockbodywidth=\dimen303
+\TP@blockbodyheight=\dimen304
+\TP@blocktitleheight=\dimen305
+\TP@blocktop=\dimen306
+\TP@blocktitleoffsetx=\dimen307
+\TP@blocktitleoffsety=\dimen308
+\TP@blockbodyoffsetx=\dimen309
+\TP@blockbodyoffsety=\dimen310
+\TP@blockbodyverticalshift=\dimen311
+\blocklinewidth=\dimen312
+\TP@innerblockcenter=\dimen313
+\TP@innerblocktitleinnersep=\dimen314
+\innerblocktitleinnersep=\dimen315
+\TP@innerblockbodyinnersep=\dimen316
+\innerblockbodyinnersep=\dimen317
+\TP@innerblocktitlebox=\box89
+\TP@innerblockbodybox=\box90
+\TP@innerblocktitlewidth=\dimen318
+\TP@innerblockbodywidth=\dimen319
+\TP@innerblockbodyheight=\dimen320
+\TP@innerblocktitleheight=\dimen321
+\TP@innerblocktitleoffsetx=\dimen322
+\TP@innerblocktitleoffsety=\dimen323
+\TP@innerblockbodyoffsetx=\dimen324
+\TP@innerblockbodyoffsety=\dimen325
+\TP@innerblockbodyverticalshift=\dimen326
+\innerblocklinewidth=\dimen327
+\TP@coloredbox=\box91
+\TP@coloredboxwidth=\dimen328
+\TP@coloredboxlinewidth=\dimen329
+\TP@coloredboxinnersep=\dimen330
+\TP@coloredboxheight=\dimen331
+\TP@noteinnersep=\dimen332
+\noteinnersep=\dimen333
+\TP@notetargetoffsetx=\dimen334
+\TP@notetargetoffsety=\dimen335
+\TP@noteradius=\dimen336
+\TP@notewidth=\dimen337
+\TP@noteheight=\dimen338
+\TP@notebox=\box92
+\notelinewidth=\dimen339
+
+! Undefined control sequence.
+l.174 \DeclareOptionX
+                     {12pt}{\TP@hugefontsizefalse \PassOptionsToClass{\Curre...
+
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.174 \DeclareOptionX{1
+                       2pt}{\TP@hugefontsizefalse \PassOptionsToClass{\Curre...
+
+? 
+! Undefined control sequence.
+l.175 \DeclareOptionX
+                     {14pt}{\TP@hugefontsizefalse \PassOptionsToClass{\Curre...
+
+? 
+! Undefined control sequence.
+l.176 \DeclareOptionX
+                     {17pt}{\TP@hugefontsizefalse \PassOptionsToClass{\Curre...
+
+? 
+! Undefined control sequence.
+l.177 \DeclareOptionX
+                     {20pt}{\TP@hugefontsizefalse \PassOptionsToClass{\Curre...
+
+? 
+! Undefined control sequence.
+l.178 \DeclareOptionX
+                     {25pt}{\TP@hugefontsizetrue}
+? 
+! Undefined control sequence.
+l.179 \DeclareOptionX
+                     {fleqn}{\PassOptionsToClass{\CurrentOption}{extarticle}}
+? 
+! Undefined control sequence.
+l.180 \DeclareOptionX
+                     {leqno} {\PassOptionsToClass{\CurrentOption}{extarticle}}
+? 
+! Undefined control sequence.
+l.181 \DeclareOptionX
+                     {a0paper}{\PassOptionsToPackage{\CurrentOption}{geometry}}
+
+? 
+! Undefined control sequence.
+l.182 \DeclareOptionX
+                     {a1paper}{\PassOptionsToPackage{\CurrentOption}{geometry}}
+
+? 
+! Undefined control sequence.
+l.183 \DeclareOptionX
+                     {a2paper}{\PassOptionsToPackage{\CurrentOption}{geometry}}
+
+? 
+! Undefined control sequence.
+l.184 \DeclareOptionX
+                     {landscape}{\PassOptionsToPackage{\CurrentOption}{geome...
+
+? 
+! Undefined control sequence.
+l.185 \DeclareOptionX
+                     {portrait}{\PassOptionsToPackage{\CurrentOption}{geomet...
+
+? 
+! Undefined control sequence.
+l.186 \DeclareOptionX
+                     {margin}[20mm]{\PassOptionsToPackage{margin=#1}{geometry}}
+
+? 
+! Illegal parameter number in definition of \opt@geometry.sty.
+<to be read again> 
+                   1
+l.186 ...PassOptionsToPackage{margin=#1}{geometry}
+                                                  }
+? 
+! Undefined control sequence.
+l.187 \DeclareOptionX
+                     {innermargin}{\TP@innermargin=#1}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.187 ...areOptionX{innermargin}{\TP@innermargin=#
+                                                  1}
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.187 ...areOptionX{innermargin}{\TP@innermargin=#
+                                                  1}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.187 ...areOptionX{innermargin}{\TP@innermargin=#
+                                                  1}
+? 
+! Undefined control sequence.
+l.188 \DeclareOptionX
+                     {colspace}{\TP@colspace=#1}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.188 \DeclareOptionX{colspace}{\TP@colspace=#
+                                              1}
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.188 \DeclareOptionX{colspace}{\TP@colspace=#
+                                              1}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.188 \DeclareOptionX{colspace}{\TP@colspace=#
+                                              1}
+? 
+! Undefined control sequence.
+l.189 \DeclareOptionX
+                     {subcolspace}{\TP@subcolspace=#1}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.189 ...areOptionX{subcolspace}{\TP@subcolspace=#
+                                                  1}
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.189 ...areOptionX{subcolspace}{\TP@subcolspace=#
+                                                  1}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.189 ...areOptionX{subcolspace}{\TP@subcolspace=#
+                                                  1}
+? 
+! Undefined control sequence.
+l.190 \DeclareOptionX
+                     {blockverticalspace}{\TP@blockverticalspace=#1}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.190 ...ckverticalspace}{\TP@blockverticalspace=#
+                                                  1}
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.190 ...ckverticalspace}{\TP@blockverticalspace=#
+                                                  1}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.190 ...ckverticalspace}{\TP@blockverticalspace=#
+                                                  1}
+? 
+! Undefined control sequence.
+l.191 \DeclareOptionX
+                     *{{\PackageWarning{tikzposter}{Unknown Option \CurrentO...
+
+? 
+
+Package tikzposter Warning: Unknown Option . on input line 191.
+
+
+Overfull \hbox (39.4397pt too wide) in paragraph at lines 174--192
+[]\T1/cmr/m/n/10 12pt
+ []
+
+
+Overfull \hbox (19.4397pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 14pt
+ []
+
+
+Overfull \hbox (19.4397pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 17pt
+ []
+
+
+Overfull \hbox (19.4397pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 20pt
+ []
+
+
+Overfull \hbox (19.4397pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 25pt
+ []
+
+
+Overfull \hbox (20.82825pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 fleqn
+ []
+
+
+Overfull \hbox (23.04993pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 leqno
+ []
+
+
+Overfull \hbox (34.74152pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 a0paper
+ []
+
+
+Overfull \hbox (34.74152pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 a1paper
+ []
+
+
+Overfull \hbox (34.74152pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 a2paper
+ []
+
+
+Overfull \hbox (22.2168pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 land-
+ []
+
+
+Overfull \hbox (23.66089pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 scape
+ []
+
+
+Overfull \hbox (18.07892pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 por-
+ []
+
+
+Overfull \hbox (19.46747pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 trait
+ []
+
+
+Overfull \hbox (20.57831pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 mar-
+ []
+
+
+Overfull \hbox (45.54443pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 gin[20mm]
+ []
+
+
+Overfull \hbox (11.66382pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (17.24579pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 ner-
+ []
+
+
+Overfull \hbox (20.57831pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 mar-
+ []
+
+
+Overfull \hbox (18.32886pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 gin1
+ []
+
+
+Overfull \hbox (40.6012pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 colspace1
+ []
+
+
+Overfull \hbox (18.3844pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 sub-
+ []
+
+
+Overfull \hbox (40.6012pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 colspace1
+ []
+
+
+Overfull \hbox (26.38245pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 block-
+ []
+
+
+Overfull \hbox (16.69037pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 ver-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (40.6012pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 calspace1
+ []
+
+
+Overfull \hbox (4.99878pt too wide) in paragraph at lines 174--192
+\T1/cmr/m/n/10 * 
+ []
+
+! Undefined control sequence.
+l.194 \ExecuteOptionsX
+                      {
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.195     2
+           5pt,
+? 
+! Undefined control sequence.
+l.204 \ProcessOptionsX
+                       \relax
+? 
+
+! LaTeX Error: File `extarticle.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+! Illegal parameter number in definition of \opt@geometry.sty.
+<to be read again> 
+                   1
+l.207 \ifTP@hugefontsize
+                        
+? 
+(c:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Overfull \hbox (42.2168pt too wide) in paragraph at lines 195--2
+[]\T1/cmr/m/n/10 25pt,
+ []
+
+
+Overfull \hbox (37.51862pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 a0paper,
+ []
+
+
+Overfull \hbox (18.07892pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 por-
+ []
+
+
+Overfull \hbox (22.24457pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 trait,
+ []
+
+
+Overfull \hbox (20.57831pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 mar-
+ []
+
+
+Overfull \hbox (45.54443pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 gin=0mm,
+ []
+
+
+Overfull \hbox (11.66382pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (17.24579pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 ner-
+ []
+
+
+Overfull \hbox (20.57831pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 mar-
+ []
+
+
+Overfull \hbox (50.54321pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 gin=15mm,
+ []
+
+
+Overfull \hbox (72.81555pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 colspace=15mm,
+ []
+
+
+Overfull \hbox (18.3844pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 sub-
+ []
+
+
+Overfull \hbox (67.81677pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 colspace=8mm,
+ []
+
+
+Overfull \hbox (26.38245pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 block-
+ []
+
+
+Overfull \hbox (16.69037pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 ver-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (70.03845pt too wide) in paragraph at lines 195--2
+\T1/cmr/m/n/10 calspace=15mm
+ []
+
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+(c:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count301
+\Gm@cntv=\count302
+\c@Gm@tempcnt=\count303
+\Gm@bindingoffset=\dimen340
+\Gm@wd@mp=\dimen341
+\Gm@odd@mp=\dimen342
+\Gm@even@mp=\dimen343
+\Gm@layoutwidth=\dimen344
+\Gm@layoutheight=\dimen345
+\Gm@layouthoffset=\dimen346
+\Gm@layoutvoffset=\dimen347
+\Gm@dimlist=\toks30
+
+! Illegal parameter number in definition of \@tempa.
+<to be read again> 
+                   1
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal parameter number in definition of \@tempa.
+<to be read again> 
+                   1
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal parameter number in definition of \@fortmp.
+<to be read again> 
+                   1
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal parameter number in definition of \Gm@tmp.
+<to be read again> 
+                   1
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal parameter number in definition of \Gm@value.
+<to be read again> 
+                   1
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Package calc Error: `##' invalid at this point.
+
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Package calc Error: `##' invalid at this point.
+
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal parameter number in definition of \@fortmp.
+<to be read again> 
+                   1
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal parameter number in definition of \Gm@tmp.
+<to be read again> 
+                   1
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal parameter number in definition of \Gm@value.
+<to be read again> 
+                   1
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Package calc Error: `##' invalid at this point.
+
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Illegal parameter number in definition of \calc@next.
+<to be read again> 
+                   }
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+
+! Illegal parameter number in definition of  .
+<to be read again> 
+                   '
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+! Package calc Error: `##' invalid at this point.
+
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+)
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.220 \normalsize
+                 
+? 
+\pgf@layerbox@backgroundlayer=\box93
+\pgf@layerboxsaved@backgroundlayer=\box94
+\pgf@layerbox@notelayer=\box95
+\pgf@layerboxsaved@notelayer=\box96
+
+Overfull \hbox (51.10352pt too wide) in paragraph at lines 1005--227
+[]\T1/cmr/m/n/10 1!1!1!1!
+ []
+
+
+! LaTeX Error: Command \maketitle undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.291 \renewcommand\maketitle
+                             [1][]{  % #1 keys
+? 
+! Undefined control sequence.
+l.331 \define@boolkey
+                     {block}{titleleft}[true]{\ifKV@block@titleleft \gdef\TP...
+
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.331 \define@boolkey{b
+                       lock}{titleleft}[true]{\ifKV@block@titleleft \gdef\TP...
+
+? 
+! Undefined control sequence.
+l.331 ...k}{titleleft}[true]{\ifKV@block@titleleft
+                                                   \gdef\TP@blocktitleAlignm...
+
+? 
+! Undefined control sequence.
+l.332 \define@boolkey
+                     {block}{titlecenter}[true]{\ifKV@block@titlecenter \gde...
+
+? 
+! Undefined control sequence.
+l.332 ...itlecenter}[true]{\ifKV@block@titlecenter
+                                                   \gdef\TP@blocktitleAlignm...
+
+? 
+! Extra \fi.
+l.332 ...ef\TP@blocktitleAlignment{\centering} \fi
+                                                  }
+? 
+! Undefined control sequence.
+l.333 \define@boolkey
+                     {block}{titleright}[true]{\ifKV@block@titleright \gdef\...
+
+? 
+! Undefined control sequence.
+l.333 ...{titleright}[true]{\ifKV@block@titleright
+                                                   \gdef\TP@blocktitleAlignm...
+
+? 
+! Extra \fi.
+l.333 ...f\TP@blocktitleAlignment{\raggedleft} \fi
+                                                  }
+? 
+
+Overfull \hbox (98.34198pt too wide) in paragraph at lines 331--343
+[]\T1/cmr/m/n/10 blocktitleleft[true]
+ []
+
+
+Overfull \hbox (26.38245pt too wide) in paragraph at lines 331--343
+\T1/cmr/m/n/10 block-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 331--343
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 331--343
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (17.77344pt too wide) in paragraph at lines 331--343
+\T1/cmr/m/n/10 cen-
+ []
+
+
+Overfull \hbox (35.60242pt too wide) in paragraph at lines 331--343
+\T1/cmr/m/n/10 ter[true]
+ []
+
+
+Overfull \hbox (26.38245pt too wide) in paragraph at lines 331--343
+\T1/cmr/m/n/10 block-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 331--343
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (7.22046pt too wide) in paragraph at lines 331--343
+\T1/cmr/m/n/10 t-
+ []
+
+
+Overfull \hbox (51.43188pt too wide) in paragraph at lines 331--343
+\T1/cmr/m/n/10 leright[true]
+ []
+
+! Undefined control sequence.
+l.457 \define@boolkey
+                     {innerblock}{titleleft}[true]{\ifKV@innerblock@titlelef...
+
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.457 \define@boolkey{i
+                       nnerblock}{titleleft}[true]{\ifKV@innerblock@titlelef...
+
+? 
+! Undefined control sequence.
+l.457 ...tleleft}[true]{\ifKV@innerblock@titleleft
+                                                   \gdef\TP@innerblocktitleA...
+
+? 
+! Extra \fi.
+l.457 ...nnerblocktitleAlignment{\raggedright} \fi
+                                                  }
+? 
+! Undefined control sequence.
+l.458 \define@boolkey
+                     {innerblock}{titlecenter}[true]{\ifKV@innerblock@titlec...
+
+? 
+! Undefined control sequence.
+l.458 ...enter}[true]{\ifKV@innerblock@titlecenter
+                                                   \gdef\TP@innerblocktitleA...
+
+? 
+! Extra \fi.
+l.458 ...@innerblocktitleAlignment{\centering} \fi
+                                                  }
+? 
+! Undefined control sequence.
+l.459 \define@boolkey
+                     {innerblock}{titleright}[true]{\ifKV@innerblock@titleri...
+
+? 
+! Undefined control sequence.
+l.459 ...eright}[true]{\ifKV@innerblock@titleright
+                                                   \gdef\TP@innerblocktitleA...
+
+? 
+! Extra \fi.
+l.459 ...innerblocktitleAlignment{\raggedleft} \fi
+                                                  }
+? 
+
+Overfull \hbox (120.58655pt too wide) in paragraph at lines 457--473
+[]\T1/cmr/m/n/10 innerblocktitleleft[true]
+ []
+
+
+Overfull \hbox (11.66382pt too wide) in paragraph at lines 457--473
+\T1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (40.29572pt too wide) in paragraph at lines 457--473
+\T1/cmr/m/n/10 nerblock-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 457--473
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 457--473
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (17.77344pt too wide) in paragraph at lines 457--473
+\T1/cmr/m/n/10 cen-
+ []
+
+
+Overfull \hbox (35.60242pt too wide) in paragraph at lines 457--473
+\T1/cmr/m/n/10 ter[true]
+ []
+
+
+Overfull \hbox (11.66382pt too wide) in paragraph at lines 457--473
+\T1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (40.29572pt too wide) in paragraph at lines 457--473
+\T1/cmr/m/n/10 nerblock-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 457--473
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (7.22046pt too wide) in paragraph at lines 457--473
+\T1/cmr/m/n/10 t-
+ []
+
+
+Overfull \hbox (51.43188pt too wide) in paragraph at lines 457--473
+\T1/cmr/m/n/10 leright[true]
+ []
+
+! Undefined control sequence.
+l.613 \define@boolkey
+                     {note}{connection}[true]{\NoteHasConnectiontrue \ifKV@n...
+
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.613 \define@boolkey{n
+                       ote}{connection}[true]{\NoteHasConnectiontrue \ifKV@n...
+
+? 
+! Undefined control sequence.
+l.613 ...teHasConnectiontrue \ifKV@note@connection
+                                                   \NoteHasConnectiontrue \e...
+
+? 
+! Extra \else.
+l.613 ...e@connection \NoteHasConnectiontrue \else
+                                                   \NoteHasConnectionfalse \fi}
+
+? 
+! Extra \fi.
+l.613 ...iontrue \else \NoteHasConnectionfalse \fi
+                                                  }
+? 
+
+Overfull \hbox (108.89496pt too wide) in paragraph at lines 613--626
+[]\T1/cmr/m/n/10 noteconnection[true]
+ []
+
+(c:/texlive/2025/texmf-dist/tex/latex/tikzposter/tikzposterColorpalettes.tex)
+(c:/texlive/2025/texmf-dist/tex/latex/tikzposter/tikzposterColorstyles.tex)
+(c:/texlive/2025/texmf-dist/tex/latex/tikzposter/tikzposterBackgroundstyles.tex
+) (c:/texlive/2025/texmf-dist/tex/latex/tikzposter/tikzposterTitlestyles.tex)
+(c:/texlive/2025/texmf-dist/tex/latex/tikzposter/tikzposterBlockstyles.tex)
+(c:/texlive/2025/texmf-dist/tex/latex/tikzposter/tikzposterInnerblockstyles.tex
+) (c:/texlive/2025/texmf-dist/tex/latex/tikzposter/tikzposterNotestyles.tex)
+(c:/texlive/2025/texmf-dist/tex/latex/tikzposter/tikzposterLayoutthemes.tex)
+! Undefined control sequence.
+\TP@titlestyleDefaultDefaultvalues ->\gpresetkeys 
+                                                  {title}{ width=600mm, roun...
+l.714 \usetheme{Default}
+                        
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.714 \usetheme{Default}
+                        
+? 
+! Undefined control sequence.
+\\usetitlestyle ...tvalues\endcsname \gpresetkeys 
+                                                  {title}{#1}{} \gdef \TP@ti...
+l.714 \usetheme{Default}
+                        
+? 
+! Undefined control sequence.
+\TP@blockstyleDefaultDefaultvalues ->\gpresetkeys 
+                                                  {block}{ titlewidthscale=1...
+l.714 \usetheme{Default}
+                        
+? 
+! Undefined control sequence.
+\\useblockstyle ...tvalues\endcsname \gpresetkeys 
+                                                  {block}{#1}{} \gdef \TP@bl...
+l.714 \usetheme{Default}
+                        
+? 
+! Undefined control sequence.
+\TP@innerblockstyleDefaultDefaultvalues ...etkeys 
+                                                  {innerblock}{ titlewidthsc...
+l.714 \usetheme{Default}
+                        
+? 
+! Undefined control sequence.
+\\useinnerblockstyle ...es\endcsname \gpresetkeys 
+                                                  {innerblock}{#1}{} \gdef \...
+l.714 \usetheme{Default}
+                        
+? 
+! Undefined control sequence.
+\TP@notestyleDefaultDefaultvalues ->\gpresetkeys 
+                                                 {note}{ targetoffsetx=0pt, ...
+l.714 \usetheme{Default}
+                        
+? 
+! Undefined control sequence.
+\\usenotestyle ...ltvalues\endcsname \gpresetkeys 
+                                                  {note}{#1}{} \gdef \TP@not...
+l.714 \usetheme{Default}
+                        
+? 
+
+Overfull \hbox (37.77344pt too wide) in paragraph at lines 714--715
+[]\T1/cmr/m/n/10 title
+ []
+
+
+Overfull \hbox (67.20581pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 width=600mm,
+ []
+
+
+Overfull \hbox (28.9096pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 round-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ed-
+ []
+
+
+Overfull \hbox (51.76514pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 corners=30,
+ []
+
+
+Overfull \hbox (76.64795pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 linewidth=0.4cm,
+ []
+
+
+Overfull \hbox (11.66382pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (56.18073pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 nersep=1cm,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (12.21924pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 to-
+ []
+
+
+Overfull \hbox (30.85358pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 topver-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (72.81555pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 calspace=15mm,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (12.21924pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 to-
+ []
+
+
+Overfull \hbox (26.38245pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 block-
+ []
+
+
+Overfull \hbox (16.69037pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ver-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (72.81555pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 calspace=20mm,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (28.35419pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 graph-
+ []
+
+
+Overfull \hbox (10.55298pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ic-
+ []
+
+
+Overfull \hbox (18.88428pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 toti-
+ []
+
+
+Overfull \hbox (26.7157pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tledis-
+ []
+
+
+Overfull \hbox (53.32031pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tance=10pt,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (50.87646pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 textscale=1
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (11.1084pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tle
+ []
+
+
+Overfull \hbox (23.04993pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (39.43481pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tlewidth-
+ []
+
+
+Overfull \hbox (36.15784pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 scale=1,
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 body-
+ []
+
+
+Overfull \hbox (28.32642pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 width-
+ []
+
+
+Overfull \hbox (36.15784pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 scale=1,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (17.77344pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 cen-
+ []
+
+
+Overfull \hbox (15.02411pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ter,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.54517pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 setx=0pt,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.26746pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 sety=0pt,
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 body-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.54517pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 setx=0pt,
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 body-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.26746pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 sety=0pt,
+ []
+
+
+Overfull \hbox (38.62946pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 bodyver-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (15.55176pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 cal-
+ []
+
+
+Overfull \hbox (44.21143pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 shift=0pt,
+ []
+
+
+Overfull \hbox (28.9096pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 round-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ed-
+ []
+
+
+Overfull \hbox (51.76514pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 corners=30,
+ []
+
+
+Overfull \hbox (76.64795pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 linewidth=0.4cm,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (22.77222pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tlein-
+ []
+
+
+Overfull \hbox (56.18073pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 nersep=1cm,
+ []
+
+
+Overfull \hbox (33.6029pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 bodyin-
+ []
+
+
+Overfull \hbox (53.40363pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 nersep=1cm
+ []
+
+
+Overfull \hbox (23.04993pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (11.66382pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (36.9632pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 nerblock
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (39.43481pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tlewidth-
+ []
+
+
+Overfull \hbox (36.15784pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 scale=1,
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 body-
+ []
+
+
+Overfull \hbox (28.32642pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 width-
+ []
+
+
+Overfull \hbox (36.15784pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 scale=1,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (17.77344pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 cen-
+ []
+
+
+Overfull \hbox (15.02411pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ter,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.54517pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 setx=0pt,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.26746pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 sety=0pt,
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 body-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.54517pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 setx=0pt,
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 body-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.26746pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 sety=0pt,
+ []
+
+
+Overfull \hbox (38.62946pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 bodyver-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (15.55176pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 cal-
+ []
+
+
+Overfull \hbox (44.21143pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 shift=0pt,
+ []
+
+
+Overfull \hbox (28.9096pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 round-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ed-
+ []
+
+
+Overfull \hbox (51.76514pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 corners=20,
+ []
+
+
+Overfull \hbox (65.53955pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 linewidth=4pt,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (22.77222pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tlein-
+ []
+
+
+Overfull \hbox (57.84698pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 nersep=10pt,
+ []
+
+
+Overfull \hbox (33.6029pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 bodyin-
+ []
+
+
+Overfull \hbox (55.06989pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 nersep=12pt
+ []
+
+
+Overfull \hbox (11.66382pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (36.9632pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 nerblock
+ []
+
+
+Overfull \hbox (18.88428pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 note
+ []
+
+
+Overfull \hbox (40.29572pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 targetoff-
+ []
+
+
+Overfull \hbox (42.54517pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 setx=0pt,
+ []
+
+
+Overfull \hbox (40.29572pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 targetoff-
+ []
+
+
+Overfull \hbox (42.26746pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 sety=0pt,
+ []
+
+
+Overfull \hbox (13.8855pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 an-
+ []
+
+
+Overfull \hbox (27.771pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 gle=0,
+ []
+
+
+Overfull \hbox (12.24701pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ra-
+ []
+
+
+Overfull \hbox (46.1554pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 dius=8cm,
+ []
+
+
+Overfull \hbox (53.32031pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 width=8cm,
+ []
+
+
+Overfull \hbox (18.32886pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (17.77344pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 nec-
+ []
+
+
+Overfull \hbox (46.98853pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tion=false,
+ []
+
+
+Overfull \hbox (12.24701pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ro-
+ []
+
+
+Overfull \hbox (32.76978pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 tate=0,
+ []
+
+
+Overfull \hbox (28.9096pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 round-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 ed-
+ []
+
+
+Overfull \hbox (51.76514pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 corners=20,
+ []
+
+
+Overfull \hbox (65.53955pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 linewidth=0pt,
+ []
+
+
+Overfull \hbox (11.66382pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (53.40363pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 nersep=1cm
+ []
+
+
+Overfull \hbox (18.88428pt too wide) in paragraph at lines 714--715
+\T1/cmr/m/n/10 note
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+aer on input line 71
+5.
+(c:/texlive/2025/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.715 
+      
+? 
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.715 
+      
+? 
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.715 
+      
+? 
+[1{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\c@figurecounter=\count304
+)
+! Extra \fi.
+<argument> ...op@@ }\expandafter \@firstofone \fi 
+                                                  
+l.2 \usepackage
+               {graphicx}
+? 
+
+! LaTeX Error: Loading a class or package in a group.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \usepackage
+               {graphicx}
+? 
+
+! LaTeX Error: Loading a class or package in a group.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \usepackage
+               {caption}
+? 
+
+! LaTeX Error: File `caption.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: Loading a class or package in a group.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \usepackage
+               {tikz}
+? 
+! Undefined control sequence.
+\TP@titlestyleDefaultDefaultvalues ->\gpresetkeys 
+                                                  {title}{ width=600mm, roun...
+l.5 \usetheme{Default}
+                      
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \usetheme{Default}
+                      
+? 
+! Undefined control sequence.
+\\usetitlestyle ...tvalues\endcsname \gpresetkeys 
+                                                  {title}{#1}{} \gdef \TP@ti...
+l.5 \usetheme{Default}
+                      
+? 
+! Undefined control sequence.
+\TP@blockstyleDefaultDefaultvalues ->\gpresetkeys 
+                                                  {block}{ titlewidthscale=1...
+l.5 \usetheme{Default}
+                      
+? 
+! Undefined control sequence.
+\\useblockstyle ...tvalues\endcsname \gpresetkeys 
+                                                  {block}{#1}{} \gdef \TP@bl...
+l.5 \usetheme{Default}
+                      
+? 
+! Undefined control sequence.
+\TP@innerblockstyleDefaultDefaultvalues ...etkeys 
+                                                  {innerblock}{ titlewidthsc...
+l.5 \usetheme{Default}
+                      
+? 
+! Undefined control sequence.
+\\useinnerblockstyle ...es\endcsname \gpresetkeys 
+                                                  {innerblock}{#1}{} \gdef \...
+l.5 \usetheme{Default}
+                      
+? 
+! Undefined control sequence.
+\TP@notestyleDefaultDefaultvalues ->\gpresetkeys 
+                                                 {note}{ targetoffsetx=0pt, ...
+l.5 \usetheme{Default}
+                      
+? 
+! Undefined control sequence.
+\\usenotestyle ...ltvalues\endcsname \gpresetkeys 
+                                                  {note}{#1}{} \gdef \TP@not...
+l.5 \usetheme{Default}
+                      
+? 
+
+Overfull \hbox (37.77344pt too wide) in paragraph at lines 5--6
+[]\T1/cmr/m/n/10 title
+ []
+
+
+Overfull \hbox (67.20581pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 width=600mm,
+ []
+
+
+Overfull \hbox (28.9096pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 round-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ed-
+ []
+
+
+Overfull \hbox (51.76514pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 corners=30,
+ []
+
+
+Overfull \hbox (76.64795pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 linewidth=0.4cm,
+ []
+
+
+Overfull \hbox (11.66382pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (56.18073pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 nersep=1cm,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (12.21924pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 to-
+ []
+
+
+Overfull \hbox (30.85358pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 topver-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (72.81555pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 calspace=15mm,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (12.21924pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 to-
+ []
+
+
+Overfull \hbox (26.38245pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 block-
+ []
+
+
+Overfull \hbox (16.69037pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ver-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (72.81555pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 calspace=20mm,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (28.35419pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 graph-
+ []
+
+
+Overfull \hbox (10.55298pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ic-
+ []
+
+
+Overfull \hbox (18.88428pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 toti-
+ []
+
+
+Overfull \hbox (26.7157pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tledis-
+ []
+
+
+Overfull \hbox (53.32031pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tance=10pt,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (50.87646pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 textscale=1
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (11.1084pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tle
+ []
+
+
+Overfull \hbox (23.04993pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (39.43481pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tlewidth-
+ []
+
+
+Overfull \hbox (36.15784pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 scale=1,
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 body-
+ []
+
+
+Overfull \hbox (28.32642pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 width-
+ []
+
+
+Overfull \hbox (36.15784pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 scale=1,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (17.77344pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 cen-
+ []
+
+
+Overfull \hbox (15.02411pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ter,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.54517pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 setx=0pt,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.26746pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 sety=0pt,
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 body-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.54517pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 setx=0pt,
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 body-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.26746pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 sety=0pt,
+ []
+
+
+Overfull \hbox (38.62946pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 bodyver-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (15.55176pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 cal-
+ []
+
+
+Overfull \hbox (44.21143pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 shift=0pt,
+ []
+
+
+Overfull \hbox (28.9096pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 round-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ed-
+ []
+
+
+Overfull \hbox (51.76514pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 corners=30,
+ []
+
+
+Overfull \hbox (76.64795pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 linewidth=0.4cm,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (22.77222pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tlein-
+ []
+
+
+Overfull \hbox (56.18073pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 nersep=1cm,
+ []
+
+
+Overfull \hbox (33.6029pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 bodyin-
+ []
+
+
+Overfull \hbox (53.40363pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 nersep=1cm
+ []
+
+
+Overfull \hbox (23.04993pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (11.66382pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (36.9632pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 nerblock
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (39.43481pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tlewidth-
+ []
+
+
+Overfull \hbox (36.15784pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 scale=1,
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 body-
+ []
+
+
+Overfull \hbox (28.32642pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 width-
+ []
+
+
+Overfull \hbox (36.15784pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 scale=1,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (17.77344pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 cen-
+ []
+
+
+Overfull \hbox (15.02411pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ter,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.54517pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 setx=0pt,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.26746pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 sety=0pt,
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 body-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.54517pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 setx=0pt,
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 body-
+ []
+
+
+Overfull \hbox (14.16321pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 off-
+ []
+
+
+Overfull \hbox (42.26746pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 sety=0pt,
+ []
+
+
+Overfull \hbox (38.62946pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 bodyver-
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (15.55176pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 cal-
+ []
+
+
+Overfull \hbox (44.21143pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 shift=0pt,
+ []
+
+
+Overfull \hbox (28.9096pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 round-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ed-
+ []
+
+
+Overfull \hbox (51.76514pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 corners=20,
+ []
+
+
+Overfull \hbox (65.53955pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 linewidth=4pt,
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (22.77222pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tlein-
+ []
+
+
+Overfull \hbox (57.84698pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 nersep=10pt,
+ []
+
+
+Overfull \hbox (33.6029pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 bodyin-
+ []
+
+
+Overfull \hbox (55.06989pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 nersep=12pt
+ []
+
+
+Overfull \hbox (11.66382pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (36.9632pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 nerblock
+ []
+
+
+Overfull \hbox (18.88428pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 note
+ []
+
+
+Overfull \hbox (40.29572pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 targetoff-
+ []
+
+
+Overfull \hbox (42.54517pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 setx=0pt,
+ []
+
+
+Overfull \hbox (40.29572pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 targetoff-
+ []
+
+
+Overfull \hbox (42.26746pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 sety=0pt,
+ []
+
+
+Overfull \hbox (13.8855pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 an-
+ []
+
+
+Overfull \hbox (27.771pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 gle=0,
+ []
+
+
+Overfull \hbox (12.24701pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ra-
+ []
+
+
+Overfull \hbox (46.1554pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 dius=8cm,
+ []
+
+
+Overfull \hbox (53.32031pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 width=8cm,
+ []
+
+
+Overfull \hbox (18.32886pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 con-
+ []
+
+
+Overfull \hbox (17.77344pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 nec-
+ []
+
+
+Overfull \hbox (46.98853pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tion=false,
+ []
+
+
+Overfull \hbox (12.24701pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ro-
+ []
+
+
+Overfull \hbox (32.76978pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 tate=0,
+ []
+
+
+Overfull \hbox (28.9096pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 round-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 ed-
+ []
+
+
+Overfull \hbox (51.76514pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 corners=20,
+ []
+
+
+Overfull \hbox (65.53955pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 linewidth=0pt,
+ []
+
+
+Overfull \hbox (11.66382pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 in-
+ []
+
+
+Overfull \hbox (53.40363pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 nersep=1cm
+ []
+
+
+Overfull \hbox (18.88428pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10 note
+ []
+
+(c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count305
+)
+(./Exo7_2_4.aux)
+\openout1 = `Exo7_2_4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \begin{document}
+                     
+? 
+(c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count306
+\scratchdimen=\dimen348
+\scratchbox=\box97
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen349
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks32
+)
+
+! LaTeX Error: Loading a class or package in a group.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \begin{document}
+                     
+? 
+(c:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a0paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(0.0pt, 2392.87677pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 3383.03267pt, 0.0pt)
+* \paperwidth=2392.87677pt
+* \paperheight=3383.03267pt
+* \textwidth=2392.87677pt
+* \textheight=3383.03267pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-72.26999pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=0.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+! Undefined control sequence.
+\__hook begindocument ...ight +7pt){\footnotesize 
+                                                  {\bf \textrm \LaTeX }~\tex...
+l.11 \begin{document}
+                     
+? 
+! Undefined control sequence.
+\__hook begindocument ...+7pt){\footnotesize {\bf 
+                                                  \textrm \LaTeX }~\textrm {...
+l.11 \begin{document}
+                     
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 11.
+! Undefined control sequence.
+<recently read> \bf 
+                    
+l.11 \begin{document}
+                     
+? 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 
+     
+? 
+! Undefined control sequence.
+\TP@maketitle ... {titlefgcolor} {\bfseries \Huge 
+                                                  \sc \@title \par } \vspace...
+l.14 
+     
+? 
+! Undefined control sequence.
+\TP@maketitle ...tlefgcolor} {\bfseries \Huge \sc 
+                                                  \@title \par } \vspace *{1...
+l.14 
+     
+? 
+
+Overfull \hbox (114.15854pt too wide) in paragraph at lines 14--14
+ [][] 
+ []
+
+! Undefined control sequence.
+\TP@maketitle ...tle \par } \vspace *{1em} {\huge 
+                                                  \@author \par } \vspace *{...
+l.14 
+     
+? 
+
+Overfull \hbox (26.13963pt too wide) in paragraph at lines 14--14
+ []\T1/aer/m/n/10 Ostap 
+ []
+
+
+Overfull \hbox (8.31982pt too wide) in paragraph at lines 14--14
+ \T1/aer/m/n/10 S. 
+ []
+
+
+Overfull \hbox (20.39978pt too wide) in paragraph at lines 14--14
+ \T1/aer/m/n/10 Ben- 
+ []
+
+
+Overfull \hbox (13.89978pt too wide) in paragraph at lines 14--14
+ \T1/aer/m/n/10 der 
+ []
+
+! Undefined control sequence.
+\TP@maketitle ...or \par } \vspace *{1em} {\LARGE 
+                                                  \@institute } } 
+l.14 
+     
+? 
+
+Overfull \hbox (29.71994pt too wide) in paragraph at lines 14--14
+ []\T1/aer/m/n/10 RUDN 
+ []
+
+
+Overfull \hbox (19.14978pt too wide) in paragraph at lines 14--14
+ \T1/aer/m/n/10 Uni- 
+ []
+
+
+Overfull \hbox (16.6798pt too wide) in paragraph at lines 14--14
+ \T1/aer/m/n/10 ver- 
+ []
+
+
+Overfull \hbox (15.58969pt too wide) in paragraph at lines 14--14
+ \T1/aer/m/n/10 sity 
+ []
+
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.14 
+     
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.14 
+     
+? 
+! Undefined control sequence.
+\TP@maketitle ... {titlefgcolor} {\bfseries \Huge 
+                                                  \sc \@title \par } \vspace...
+l.14 
+     
+? 
+! Undefined control sequence.
+\TP@maketitle ...tlefgcolor} {\bfseries \Huge \sc 
+                                                  \@title \par } \vspace *{1...
+l.14 
+     
+? 
+
+Overfull \hbox (114.15854pt too wide) in paragraph at lines 14--14
+ [][] 
+ []
+
+! Undefined control sequence.
+\TP@maketitle ...tle \par } \vspace *{1em} {\huge 
+                                                  \@author \par } \vspace *{...
+l.14 
+     
+? 
+
+Overfull \hbox (26.13963pt too wide) in paragraph at lines 14--14
+ []\T1/aer/m/n/10 Ostap 
+ []
+
+
+Overfull \hbox (8.31982pt too wide) in paragraph at lines 14--14
+ \T1/aer/m/n/10 S. 
+ []
+
+
+Overfull \hbox (20.39978pt too wide) in paragraph at lines 14--14
+ \T1/aer/m/n/10 Ben- 
+ []
+
+
+Overfull \hbox (13.89978pt too wide) in paragraph at lines 14--14
+ \T1/aer/m/n/10 der 
+ []
+
+! Undefined control sequence.
+\TP@maketitle ...or \par } \vspace *{1em} {\LARGE 
+                                                  \@institute } } 
+l.14 
+     
+? 
+
+Overfull \hbox (29.71994pt too wide) in paragraph at lines 14--14
+ []\T1/aer/m/n/10 RUDN 
+ []
+
+
+Overfull \hbox (19.14978pt too wide) in paragraph at lines 14--14
+ \T1/aer/m/n/10 Uni- 
+ []
+
+
+Overfull \hbox (16.6798pt too wide) in paragraph at lines 14--14
+ \T1/aer/m/n/10 ver- 
+ []
+
+
+Overfull \hbox (15.58969pt too wide) in paragraph at lines 14--14
+ \T1/aer/m/n/10 sity 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 
+     
+? 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \begin{column}{0.5}
+                        
+? 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 }
+      
+? 
+! Undefined control sequence.
+<argument> \hsize \@tempdima \@parboxrestore \bf 
+                                                 \LARGE \color {blocktitlefg...
+l.24 }
+      
+? 
+! Undefined control sequence.
+<argument> ...tempdima \@parboxrestore \bf \LARGE 
+                                                  \color {blocktitlefgcolor}...
+l.24 }
+      
+? 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 }
+      
+? 
+! Undefined control sequence.
+<argument> ...{\TP@blockbodyverticalshift }\large 
+                                                  \color {blockbodyfgcolor} ...
+l.24 }
+      
+? 
+<instituteLogo.jpg, id=34, 225.84375pt x 225.84375pt>
+File: instituteLogo.jpg Graphic file (type jpg)
+<use instituteLogo.jpg>
+Package pdftex.def Info: instituteLogo.jpg  used on input line 24.
+(pdftex.def)             Requested size: 2154.46321pt x 227.63515pt.
+! Undefined control sequence.
+<argument> ...=8cm]{instituteLogo.jpg} \captionof 
+                                                  {figure}{Experimental Setu...
+l.24 }
+      
+? 
+
+Overfull \hbox (958.02483pt too wide) in paragraph at lines 24--24
+ [] 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 }
+      
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.24 }
+      
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.24 }
+      
+? 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \begin{column}{0.5}
+                        
+? 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 }
+      
+? 
+! Undefined control sequence.
+<argument> \hsize \@tempdima \@parboxrestore \bf 
+                                                 \LARGE \color {blocktitlefg...
+l.54 }
+      
+? 
+! Undefined control sequence.
+<argument> ...tempdima \@parboxrestore \bf \LARGE 
+                                                  \color {blocktitlefgcolor}...
+l.54 }
+      
+? 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 }
+      
+? 
+! Undefined control sequence.
+<argument> ...{\TP@blockbodyverticalshift }\large 
+                                                  \color {blockbodyfgcolor} ...
+l.54 }
+      
+? 
+! Undefined control sequence.
+<argument> ...3pt); \end {tikzpicture} \captionof 
+                                                  {figure}{Mathematical Func...
+l.54 }
+      
+? 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 }
+      
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.54 }
+      
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.54 }
+      
+? 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \begin{column}{1.0}
+                        
+? 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 }
+      
+? 
+! Undefined control sequence.
+<argument> \hsize \@tempdima \@parboxrestore \bf 
+                                                 \LARGE \color {blocktitlefg...
+l.67 }
+      
+? 
+! Undefined control sequence.
+<argument> ...tempdima \@parboxrestore \bf \LARGE 
+                                                  \color {blocktitlefgcolor}...
+l.67 }
+      
+? 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 }
+      
+? 
+! Undefined control sequence.
+<argument> ...{\TP@blockbodyverticalshift }\large 
+                                                  \color {blockbodyfgcolor} ...
+l.67 }
+      
+? 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 }
+      
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.67 }
+      
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.67 }
+      
+? 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 \end{document}
+                   
+? 
+[2]
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 \end{document}
+                   
+? 
+[3 <./instituteLogo.jpg>] (./Exo7_2_4.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+ ***********
+ )
+(\end occurred inside a group at level 4)
+
+### semi simple group (level 4) entered at line 1005 (\begingroup)
+### semi simple group (level 3) entered at line 1005 (\begingroup)
+### semi simple group (level 2) entered at line 1005 (\begingroup)
+### semi simple group (level 1) entered at line 1005 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 16929 strings out of 469476
+ 377455 string characters out of 5469260
+ 818383 words of memory out of 5000000
+ 45280 multiletter control sequences out of 15000+600000
+ 638062 words of font info for 55 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 117i,10n,121p,487b,2282s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <c:/Users/KONE/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen
+/ec/ecrm1000.600pk><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mb10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texliv
+e/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2025/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Exo7_2_4.pdf (3 pages, 82697 bytes).
+PDF statistics:
+ 114 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+
